@@ -1,0 +1,16 @@
+.Inline{
+    height: 400px;
+    width: 1000px;
+    background-color: gray;
+}
+.Internal{
+    height: 400px;
+    width: 1000px;
+    background-color: gray;
+}
+.External{
+    color:maroon;
+    height: 400px;
+    width: 1000px;
+    background-color: gray;
+}
